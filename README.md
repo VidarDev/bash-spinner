@@ -1,6 +1,6 @@
 # Bash spinner
 
-[![Bash](https://img.shields.io/badge/bash-black?style=flat&logo=gnubash&logoColor=ffffff&label=&labelColor=000000&color=000000)](<https://en.wikipedia.org/wiki/Bash_(Unix_shell)>)
+[![Bash](https://img.shields.io/badge/bash-black?style=flat&logo=gnubash&logoColor=ffffff&color=000000)](<https://en.wikipedia.org/wiki/Bash_(Unix_shell)>)
 
 Display a small customizable progress spinner in bash while your commands are running.
 
